@@ -4,7 +4,7 @@
 #
 #   include linkinus
 class linkinus {
-  package { 'Linkinus':
+  package { 'linkinus':
     provider => 'compressed_app',
     source => 'http://conceitedsoftware.com/downloads/Linkinus.zip'
   }

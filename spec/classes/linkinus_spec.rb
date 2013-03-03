@@ -8,7 +8,7 @@ describe 'linkinus' do
   end
 
   it do
-    should contain_package('Linkinus').with({
+    should contain_package('linkinus').with({
       :source   => 'http://conceitedsoftware.com/downloads/Linkinus.zip',
       :provider => 'compressed_app'
     })
