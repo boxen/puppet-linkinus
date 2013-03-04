@@ -1,4 +1,4 @@
-# TextMate Puppet Module for Boxen
+# Linkinus Puppet Module for Boxen
 
 ## Usage
 
