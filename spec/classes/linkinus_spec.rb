@@ -9,7 +9,7 @@ describe 'linkinus' do
 
   it do
     should contain_package('linkinus').with({
-      :source   => 'http://conceitedsoftware.com/downloads/Linkinus.zip',
+      :source   => 'http://conceited.net/downloads/Linkinus.zip',
       :provider => 'compressed_app'
     })
   end
