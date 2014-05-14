@@ -6,6 +6,6 @@
 class linkinus {
   package { 'linkinus':
     provider => 'compressed_app',
-    source   => 'http://conceitedsoftware.com/downloads/Linkinus.zip'
+    source   => 'http://conceited.net/downloads/Linkinus.zip'
   }
 }
