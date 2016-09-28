@@ -1,16 +1,7 @@
 # Linkinus Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-linkinus.png?branch=master)](https://travis-ci.org/boxen/puppet-linkinus)
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-Installs [Linkinus](http://conceited.net/products/linkinus), an IRC client.
-
-## Usage
-
-```puppet
-include linkinus
-```
-
-## Required Puppet Modules
-
-* boxen
-
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
